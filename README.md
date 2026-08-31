@@ -2,71 +2,54 @@
 
 ### `Desenvolvedor FullStack`
 
-> #### Um Padawan tentando ser um Jedi.
-> #### Um programador júnior tentando ser um sênior.
-> #### Um nerd com um sonho. 🚀
+#### Um Padawan tentando ser um Jedi.
+#### Um programador júnior tentando ser um sênior.
+#### Um nerd com um sonho. 🚀
 
-Sou desenvolvedor apaixonado por tecnologia e criação de soluções para a web. Atualmente, venho aprimorando minhas habilidades em **desenvolvimento FullStack**, explorando também áreas como **backend, infraestrutura, redes e segurança da informação**.
+Desenvolvedor apaixonado por tecnologia e criação de soluções. Atualmente focado em **desenvolvimento FullStack**, enquanto aprimoro meus conhecimentos em **Backend, Infraestrutura, Redes e Segurança da Informação**.
 
 ---
 
-## 🚀 Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 ### 💻 Front-end
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" alt="Tailwind CSS"/>
 </p>
 
 ### ⚙️ Back-end
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" title="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" title="Laravel" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" alt="Java"/>
 </p>
 
 ### 🗄️ Banco de Dados & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=hyagodiasf&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagodiasf&layout=compact&langs_count=8&theme=dark&hide_border=true"
- alt="Linguagens mais utilizadas"
-/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
+### 🔥 Streak de Contribuições
 
 <p align="center">
   <img
@@ -75,51 +58,58 @@ Sou desenvolvedor apaixonado por tecnologia e criação de soluções para a web
   />
 </p>
 
----
-
-## 📈 Atividade no GitHub
+### 📈 Gráfico de Contribuições
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hyagodiasf&theme=github-dark&hide_border=true"
-    alt="Gráfico de atividade do GitHub"
+    src="https://ghchart.rshah.org/hyagodiasf"
+    alt="Gráfico de contribuições de Hyago Dias"
   />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 🏆 Conquistas
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hyagodiasf&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1"
+    alt="GitHub Profile Trophy"
+  />
+</p>
+
+---
+
+## 📌 Projetos
 
 ### ⚛️ React Projects
 
-Projetos desenvolvidos utilizando **React, JavaScript/TypeScript e tecnologias modernas de desenvolvimento web**.
+Projetos desenvolvidos utilizando **React, JavaScript, TypeScript e tecnologias modernas para desenvolvimento web**.
 
-🔗 [Ver projetos](https://github.com/hyagodiasf/REACT_PROJECTS)
+🔗 **[REACT_PROJECTS](https://github.com/hyagodiasf/REACT_PROJECTS)**
 
 ### ☕ Java Projects
 
-Projetos e estudos desenvolvidos utilizando **Java**, explorando conceitos de programação, orientação a objetos e desenvolvimento de aplicações.
+Projetos e estudos desenvolvidos utilizando **Java**, explorando programação orientada a objetos e desenvolvimento de aplicações.
 
-🔗 [Ver projetos](https://github.com/hyagodiasf/JavaProjects)
+🔗 **[JavaProjects](https://github.com/hyagodiasf/JavaProjects)**
 
 ---
 
 ## 🧠 Atualmente estudando
 
 ```text
-Frontend       ███████████████████░░   React / TypeScript
-Backend        ████████████████░░░░░   PHP / Laravel / Python
-Banco de Dados ███████████████░░░░░░   SQL / PostgreSQL / MySQL
-DevOps         ████████████░░░░░░░░░   Docker / CI-CD
-Segurança      ████████████████░░░░░   Cybersecurity
-Infraestrutura ██████████████░░░░░░░   Redes / Linux / Windows Server
+Frontend        ███████████████████░░   React / TypeScript
+Backend         ████████████████░░░░░   PHP / Laravel / Python
+Banco de Dados  ███████████████░░░░░░   SQL / PostgreSQL / MySQL
+DevOps          ████████████░░░░░░░░░   Docker / CI/CD
+Segurança       ████████████████░░░░░   Cybersecurity
+Infraestrutura  ██████████████░░░░░░░   Redes / Linux / Windows Server
 ```
 
 ---
 
-## 🛡️ Além do código
-
-Tenho interesse especial por:
+## 🛡️ Áreas de Interesse
 
 * 🔐 Segurança da Informação
 * 🌐 Redes de Computadores
@@ -130,6 +120,7 @@ Tenho interesse especial por:
 * 🐳 Docker
 * 🤖 Inteligência Artificial
 * 🏗️ Arquitetura de Software
+* 💻 Desenvolvimento FullStack
 
 ---
 
@@ -137,24 +128,24 @@ Tenho interesse especial por:
 
 > **Transformar conhecimento em soluções.**
 
-Meu objetivo é continuar evoluindo como profissional de tecnologia, unindo **desenvolvimento de software, infraestrutura e segurança da informação** para construir soluções cada vez mais eficientes, seguras e escaláveis.
+Busco evoluir continuamente como profissional de tecnologia, unindo **desenvolvimento de software, infraestrutura e segurança da informação** para construir soluções eficientes, seguras e escaláveis.
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Contato
 
 <p align="left">
   <a href="https://github.com/hyagodiasf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Que a Força esteja com o código."</i> ⚔️
+  <i>“Que a Força esteja com o código.”</i> ⚔️
 </p>
