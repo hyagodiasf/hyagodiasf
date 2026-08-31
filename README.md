@@ -2,9 +2,9 @@
 
 ### `Desenvolvedor FullStack`
 
-> ## Um Padawan tentando ser um Jedi.
-> ## Um programador júnior tentando ser um sênior.
-> ## Um nerd com um sonho. 🚀
+> #### Um Padawan tentando ser um Jedi.
+> #### Um programador júnior tentando ser um sênior.
+> #### Um nerd com um sonho. 🚀
 
 Sou desenvolvedor apaixonado por tecnologia e criação de soluções para a web. Atualmente, venho aprimorando minhas habilidades em **desenvolvimento FullStack**, explorando também áreas como **backend, infraestrutura, redes e segurança da informação**.
 
