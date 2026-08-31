@@ -69,10 +69,6 @@ Desenvolvedor apaixonado por tecnologia e criação de soluções. Atualmente fo
 
 ---
 
-## 🏆 Conquistas
-
----
-
 ## 📌 Projetos
 
 ### ⚛️ React Projects
